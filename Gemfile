@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem 'wunderfront', '0.0.1'
+gem 'wunderfront', '0.0.2'
